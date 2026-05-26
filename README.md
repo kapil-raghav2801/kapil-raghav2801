@@ -207,13 +207,13 @@ Scalable URL shortening service with collision-free ID generation and analytics.
 
 ---
 
-<!-- LeetCode Stats 
+<!-- LeetCode Stats -->
 ## 🧩 LeetCode Progress
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/kapilraghav?theme=dark&font=Fira%20Code&ext=heatmap" width="500"/>
 </div>
- -->
+ 
 ---
 
 <!-- What I'm Up To -->
